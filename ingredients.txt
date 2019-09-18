@@ -2,3 +2,4 @@ avocado
 onion
 lime
 salt
+garlic
