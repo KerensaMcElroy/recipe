@@ -3,3 +3,6 @@ onion
 lime
 salt
 garlic
+chili
+tomato
+chicken salt
